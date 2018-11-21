@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
         //Actividades
         //Jesus-Magaña-Valdez_volvi a realizar la actividad hoy 21 de nov 18 en la manana
+        //Solo cambio de nombre en repositorio actividad_9 por u6a1_act_9
         //a) Crea una cuenta en OpenWeather y obten tu appid (API KEY)
         //Reemplaza tu API KEY en la URL OPEN_WEATHER_URL en este mismo archivo
         //b) Android permite mostrar imagenes en formato de vectores. En el foro hay una carpeta con los iconos correspondientes a cada estado del clima
