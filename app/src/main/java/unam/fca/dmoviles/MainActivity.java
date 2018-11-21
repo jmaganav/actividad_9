@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
 
     private SwipeRefreshLayout mSwipeRefreshLayout;
-    private static String OPEN_WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?id=3530597&&units=metric&appid=REMPLAZAR_POR_API_KEY";
+    private static String OPEN_WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?id=3530597&&units=metric&appid=404b04bbaa9f35ffe5f78b7be5312470";
 
 
 
@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
 
         //Actividades
+        //Jesus-Magaña-Valdez_volvi a realizar la actividad hoy 21 de nov 18
         //a) Crea una cuenta en OpenWeather y obten tu appid (API KEY)
         //Reemplaza tu API KEY en la URL OPEN_WEATHER_URL en este mismo archivo
         //b) Android permite mostrar imagenes en formato de vectores. En el foro hay una carpeta con los iconos correspondientes a cada estado del clima
