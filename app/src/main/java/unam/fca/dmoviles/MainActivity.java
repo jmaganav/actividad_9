@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
 
         //Actividades
-        //Jesus-Magaña-Valdez_volvi a realizar la actividad hoy 21 de nov 18 en la manana
+        //Jesus-Magaña-Valdez_volvi a realizar la actividad hoy 21 de nov 18 a las 10:05 de la manana
         //Solo cambio de nombre en repositorio actividad_9 por u6a1_act_9
         //a) Crea una cuenta en OpenWeather y obten tu appid (API KEY)
         //Reemplaza tu API KEY en la URL OPEN_WEATHER_URL en este mismo archivo
